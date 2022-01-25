@@ -1,5 +1,7 @@
 # ![Juice Shop Logo](https://raw.githubusercontent.com/bkimminich/juice-shop/master/frontend/src/assets/public/images/JuiceShop_Logo_100px.png) OWASP Juice Shop
 
+[![Git](https://app.soluble.cloud/api/v1/public/badges/30800cb7-63f0-4bd5-bc79-ddd36a005de3.svg?orgId=560723739106)](https://app.soluble.cloud/repos/details/github.com/bhuvi11/juice-shop?orgId=560723739106)  
+
 [![OWASP Flagship](https://img.shields.io/badge/owasp-flagship%20project-48A646.svg)](https://owasp.org/projects/#sec-flagships)
 [![GitHub release](https://img.shields.io/github/release/bkimminich/juice-shop.svg)](https://github.com/bkimminich/juice-shop/releases/latest)
 [![Twitter Follow](https://img.shields.io/twitter/follow/owasp_juiceshop.svg?style=social&label=Follow)](https://twitter.com/owasp_juiceshop)
